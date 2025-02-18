@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/kamil/eatcheap"><img src="assets/VOLTA.png" alt="Volta logo" width="200"></a>
+  <a href="https://github.com/kamil/eatcheap"><img src="src/assets/VOLTA.png" alt="Volta logo" width="200"></a>
   <br>
   WebVolta
   <br>
