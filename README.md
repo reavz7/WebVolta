@@ -18,7 +18,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/reavz7/EatCheap
+$ git clone https://github.com/reavz7/WebVolta
 
 # Go into the repository
 $ cd voltasite
